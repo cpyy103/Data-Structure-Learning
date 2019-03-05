@@ -127,6 +127,8 @@ VS2015工程文件
     (x&&y=1)        //且，需要同时为真，执行y=1
 
 ### 数据类型   
+<div align=center><img width="500" height="350" src="./picture/datatype.png"/></div>
+
 ***一般情况，可能由于机器不同，int类型大小不同***  
 
 |类型|bit|字节|范围|
@@ -1089,4 +1091,3 @@ VS2015工程文件
 
 ***吐槽***
 - Github上的MarkDown不支持表格合并，数学公式，mermaid，只能在本地markdown写出来预览然后截图放上去:confused:
-- 希望能上岸:smile:
